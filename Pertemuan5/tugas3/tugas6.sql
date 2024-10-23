@@ -1,0 +1,22 @@
+INSERT INTO Mahasiswa (id, NPM, nama, tanggal_lahir, alamat, no_hp, jurusan_id, dosen_wali_id)
+VALUES
+(1, '233040163', 'valdric abirama pranaja dandi', '2004-09-19', 'Jl.Cijambe', 81313549142, 1, 1),
+(2, '235012090', 'brela', '2004-06-14', 'Jl. Melati No. 7', 8123456702, 1, 2),
+(3, '190003', 'Citra Dewi', '1999-03-14', 'Jl. Cemara No. 10', 8123456703, 2, 3),
+(4, '190004', 'Doni Pratama', '1999-05-08', 'Jl. Kamboja No. 12', 8123456704, 2, 4),
+(5, '190005', 'Eka Saputra', '2001-07-21', 'Jl. Anggrek No. 5', 8123456705, 3, 5),
+(6, '190006', 'Fira Widya', '1999-08-30', 'Jl. Dahlia No. 3', 8123456706, 3, 6),
+(7, '190007', 'Gilang Ramadhan', '2000-10-19', 'Jl. Kenari No. 15', 8123456707, 4, 7),
+(8, '190008', 'Hana Setiawan', '2001-11-04', 'Jl. Mawar No. 9', 8123456708, 4, 8),
+(9, '190009', 'Indra Mahesa', '2000-12-30', 'Jl. Tulip No. 2', 8123456709, 5, 9),
+(10, '190010', 'Joko Suyono', '1999-06-22', 'Jl. Merpati No. 11', 8123456710, 5, 10),
+(11, '190011', 'Kiki Lestari', '2000-04-15', 'Jl. Sakura No. 8', 8123456711, 1, 1),
+(12, '190012', 'Lina Permata', '2001-09-05', 'Jl. Mangga No. 6', 8123456712, 1, 2),
+(13, '190013', 'Mia Rahma', '1999-03-25', 'Jl. Kamboja No. 4', 8123456713, 2, 3),
+(14, '190014', 'Nina Wulandari', '2000-05-17', 'Jl. Cemara No. 14', 8123456714, 2, 4),
+(15, '190015', 'Oka Pradana', '2001-07-08', 'Jl. Anggrek No. 2', 8123456715, 3, 5),
+(16, '190016', 'Putri Amelia', '1999-11-11', 'Jl. Melati No. 15', 8123456716, 3, 6),
+(17, '190017', 'Rani Cahyani', '2000-02-13', 'Jl. Dahlia No. 7', 8123456717, 4, 7),
+(18, '190018', 'Sinta Rahmi', '2001-03-24', 'Jl. Tulip No. 13', 8123456718, 4, 8),
+(19, '190019', 'Tono Mulyana', '2000-10-01', 'Jl. Merpati No. 20', 8123456719, 5, 9),
+(20, '190020', 'Umi Kurnia', '1999-08-15', 'Jl. Sakura No. 22', 8123456720, 5, 10);
